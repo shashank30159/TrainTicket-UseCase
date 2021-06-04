@@ -1,0 +1,11 @@
+PNR         : BM_20210606_102
+Train no    : 1003
+Train Name  : Udyan
+Express
+Source      : Bangalore
+Destination : Mumbai
+Travel Date : 06/06/2021
+Passengers
+Name          Age        Gender      TicketFare
+{shashank           21          M=1500}
+Total Price: 1500.0
